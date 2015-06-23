@@ -1,0 +1,33 @@
+body{
+	padding: 60px;
+font-family: Verdana;
+}
+
+div{
+	margin: 20px;
+
+}
+
+label{ 
+	min-width: 100px;
+	display: inline-block;
+}
+
+input[type=text],input[type=email] { 
+	min-width: 200px;
+
+}
+div button{
+	background-color: green;
+	border: none;
+	padding: 10px 30px;
+	border-radius: 5px;
+	font-weight: bold;
+
+}
+
+button:hover{
+	background-color: red;
+	border: none;
+
+}
