@@ -1,0 +1,90 @@
+body{
+	
+	text-decoration: none;
+
+}
+
+footer{
+	display: inline;
+	width: 100%;
+}
+
+.container{
+	
+}
+
+.navigation{
+	text-decoration: none;
+	border-radius: 2px;
+
+}
+
+span{
+	text-align: center;
+}
+
+nav li a{
+	display: inline;
+}
+
+a{
+	text-decoration: none;
+}
+
+.profile-image{
+	border-radius: 50%;
+	border: 2px solid #771414;
+	height: 400px;
+	padding: 0px;
+	width: 400px;
+
+}
+
+.media{
+	text-align: center;
+	font-weight: bold;
+	font-size: 3em;
+
+}
+
+.enemys{
+	display: inline;
+	clear: all;
+	font-weight: bold;
+}
+
+.enemy1{
+	border-radius: 50%;
+	border: 2px solid black;
+	height: 200px;
+	padding: 0px;
+	width: 200px;
+	
+}
+
+.enemy2{
+	border-radius: 50%;
+	border: 2px solid black;
+	height: 200px;
+	padding: 0px;
+	width: 200px;
+	
+}
+
+.enemy3{
+	border-radius: 50%;
+	border: 2px solid black;
+	height: 200px;
+	padding: 0px;
+	width: 200px;
+	
+	
+}
+
+.wiki{
+	display: inline;
+	font-family: Verdana;
+	text-align: center;
+	font-size: 1em;
+}
+

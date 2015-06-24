@@ -15,10 +15,12 @@ label{
 
 input[type=text],input[type=email] { 
 	min-width: 200px;
+	font-size: 1em;
+	padding: 5px;
 
 }
 div button{
-	background-color: green;
+	background-color: #f0d048;
 	border: none;
 	padding: 10px 30px;
 	border-radius: 5px;
@@ -27,7 +29,7 @@ div button{
 }
 
 button:hover{
-	background-color: red;
+	background-color: #40b868;
 	border: none;
 
 }
